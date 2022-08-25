@@ -1,0 +1,55 @@
+h1{
+
+font-size: 3rem;
+
+}
+.color-boton{
+
+background-color: aqua;
+color:red;
+
+}
+.btn:hover {
+    color: green;
+    background-color:#6f00ff;
+    border-color:red;
+}
+.row{
+
+    justify-content: space-between;
+}
+.card{
+background-color: beige;
+
+}
+.navbar{
+padding: 2rem;
+
+}
+.color-nav{
+
+background-color: #ce1d1d;
+
+}
+.navbar-brand{
+color: blue;
+
+}
+.nave-color{
+background-color:beige;
+
+}
+.color-but2{
+
+    background-color: blue;
+}
+
+.color-but3{
+
+    background-color: orange;
+}
+
+.color-but4{
+
+    background-color:#3f053f;
+}
